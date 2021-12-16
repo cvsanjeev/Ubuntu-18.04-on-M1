@@ -1,4 +1,4 @@
-# How to Install Ubuntu-18.04-on-M1(VM)
+# How to Install Ubuntu-18.04-on-M1 macs(VM)
 
 # Step 1
 Install VMware fusion for apple silicon 
@@ -112,7 +112,7 @@ But see the video below and do those updates
 
 https://user-images.githubusercontent.com/34735804/146429645-68abd9a1-c69d-4120-b116-6d2a2ff2c0f3.mov
 
-Now Ubuntu(arm64) running on m1 
+Now Ubuntu(arm64) running on m1 macs 
 
 # Now Reboot the VM
 
