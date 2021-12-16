@@ -9,7 +9,7 @@ https://blogs.vmware.com/teamfusion/2021/09/fusion-for-m1-public-tech-preview-no
 You would need to create an account then click on download (VMware-Fusion-e.x.p-18656771_arm64.dmg)
 
 # Step 2
-Install Ubuntu 18.04.05 live server for 64-bit ARM
+Install Ubuntu 18.04.06 live server for 64-bit ARM
 
 https://cdimage.ubuntu.com/ubuntu-server/bionic/daily-live/current/
 
