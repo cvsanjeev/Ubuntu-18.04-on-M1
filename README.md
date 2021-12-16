@@ -79,7 +79,9 @@ When you see this
 <img width="1440" alt="Screenshot 2021-12-16 at 11 37 04 PM" src="https://user-images.githubusercontent.com/34735804/146425564-6bc77589-60ad-4bae-a781-0b408aa3f518.png">
 
 Just Press return
+
 You will see ubuntu starts
+
 Enter your Username and Password
 
 https://user-images.githubusercontent.com/34735804/146425857-9089fd83-1a75-497e-8967-308073305f71.mov
@@ -92,7 +94,9 @@ Use the command given one by one (So we can convert Ubuntu server to Ubuntu desk
 https://user-images.githubusercontent.com/34735804/146426735-0c3019cf-2499-486e-a71c-e085a7965305.mov
 
 This takes time 
+
 After this installed 100%
+
 Use this command 
 
          $ sudo reboot
