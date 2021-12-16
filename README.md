@@ -81,7 +81,7 @@ When you see this
 Just Press return
 
 
-You will see ubuntu starts
+You will see ubuntu starts again
 
 Enter your Username and Password
 
@@ -104,7 +104,7 @@ Use this command
                      
 https://user-images.githubusercontent.com/34735804/146428248-6acb3cb0-de4c-49b4-abad-84911a6839fa.mov
 
-# Don't update to 20.04 But you need to some updates(see the video)
+# Don't update to 20.04 But you need to do some updates(see the video)
 
 https://user-images.githubusercontent.com/34735804/146429332-85b70aef-1ee2-46c1-b448-abf0a54a8c10.mov
 
@@ -128,7 +128,7 @@ Click on ‘Network Adapter’-> Advanced Options->Remove Network Adapter (I fac
 
 Now Start Again 
 
-If it still occur just 
+If it still occur just
 disconnect the network adapter
 and turn it on after you see sign in window
 
