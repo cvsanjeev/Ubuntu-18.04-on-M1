@@ -16,21 +16,21 @@ https://cdimage.ubuntu.com/ubuntu-server/bionic/daily-live/current/
 <img width="1440" alt="Screenshot 2021-12-16 at 10 23 31 PM" src="https://user-images.githubusercontent.com/34735804/146414580-431c16ed-d12c-43e5-bacb-58d976d75953.png">
 
 # Step 3
-Open VMware Fusion Tech Preview
-and drop the downloaded Ubuntu(bionic-live-server-arm64.iso) file
-and save it
+Open VMware Fusion Tech Preview   
+and drop the downloaded Ubuntu(bionic-live-server-arm64.iso) file   
+and save it   
 Now the VM starts
 
 https://user-images.githubusercontent.com/34735804/146416021-023882fe-26f5-4e27-9058-affaea8c6a8a.mov
 
 # Step 4
-Click on virtual machine-> Shutdown
+Click on virtual machine-> Shutdown    
 then again click on virtual machine-> Settings
 
 https://user-images.githubusercontent.com/34735804/146416653-ffabe510-deed-47b6-9b91-f00cf9bcfd91.mov
 
 # Step 5
-Here we are going to increase the hard drive space or SSD space for the vm 
+Here we are going to increase the hard drive space or SSD space for the vm    
 Option 1 
 
 Using VM through External HDD or SSD
@@ -97,7 +97,7 @@ https://user-images.githubusercontent.com/34735804/146426735-0c3019cf-2499-486e-
 
 This takes time 
 
-After this is installed 100%
+After this is installed 100%    
 Use this command 
 
          $ sudo reboot
@@ -116,21 +116,21 @@ Now Ubuntu(arm64) running on m1
 
 # Now Reboot the VM
 
-If it shows "Start PXE over IPV4"
-Do this
-Shutdown the VM
-Open Settings 
-Click on Add device->Network Adapter->Add
-Move back to settings (by clicking ‘show all’)
+If it shows "Start PXE over IPV4"    
+Do this    
+Shutdown the VM    
+Open Settings    
+Click on Add device->Network Adapter->Add    
+Move back to settings (by clicking ‘show all’)    
 
 Click on ‘Network Adapter’-> Advanced Options->Remove Network Adapter (I faced a issue where it only boots via network every time you start the vm)
 (This solves that)
 
 Now Start Again 
 
-If it still occur just
-disconnect the network adapter
-and turn it on after you see sign in window
+If it still occur just    
+disconnect the network adapter   
+and turn it on after you see sign in window   
 
 
                      
