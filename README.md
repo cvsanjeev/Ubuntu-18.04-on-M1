@@ -121,9 +121,8 @@ Do this
 Shutdown the VM    
 Open Settings    
 Click on Add device->Network Adapter->Add    
-Move back to settings (by clicking ‘show all’)    
-
-Click on ‘Network Adapter’-> Advanced Options->Remove Network Adapter (I faced a issue where it only boots via network every time you start the vm)
+Move back to settings (by clicking ‘show all’)        
+Click on ‘Network Adapter’-> Advanced Options->Remove Network Adapter (I faced a issue where it only boots via network every time you start the vm)   
 (This solves that)
 
 Now Start Again 
