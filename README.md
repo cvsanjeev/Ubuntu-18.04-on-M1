@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/34735804/146423745-14b5d7c8-b97a-45ff-
 
 Follow the installation process
 
-# Dont update the software (In the process it might ask you to do so)
+# Don't update the software (In the process it might ask you to do so)
 You are free to use any name for username and server name 
 
 https://user-images.githubusercontent.com/34735804/146424801-ff9e9594-001a-4a5d-ad70-2f17e0adbf42.mov
@@ -80,12 +80,14 @@ When you see this
 
 Just Press return
 
+
 You will see ubuntu starts
 
 Enter your Username and Password
 
 https://user-images.githubusercontent.com/34735804/146425857-9089fd83-1a75-497e-8967-308073305f71.mov
 
+# Step 8
 Use the command given one by one (So we can convert Ubuntu server to Ubuntu desktop (GUI))
     
          $ sudo apt install tasksel
@@ -95,12 +97,40 @@ https://user-images.githubusercontent.com/34735804/146426735-0c3019cf-2499-486e-
 
 This takes time 
 
-After this installed 100%
-
+After this is installed 100%
 Use this command 
 
          $ sudo reboot
                      
+https://user-images.githubusercontent.com/34735804/146428248-6acb3cb0-de4c-49b4-abad-84911a6839fa.mov
+
+# Don't update to 20.04 But you need to some updates(see the video)
+
+https://user-images.githubusercontent.com/34735804/146429332-85b70aef-1ee2-46c1-b448-abf0a54a8c10.mov
+
+But see the video below and do those updates
+
+https://user-images.githubusercontent.com/34735804/146429645-68abd9a1-c69d-4120-b116-6d2a2ff2c0f3.mov
+
+Now Ubuntu(arm64) running on m1 
+
+# Now Reboot the VM
+
+If it shows "Start PXE over IPV4"
+Do this
+Shutdown the VM
+Open Settings 
+Click on Add device->Network Adapter->Add
+Move back to settings (by clicking ‘show all’)
+
+Click on ‘Network Adapter’-> Advanced Options->Remove Network Adapter (I faced a issue where it only boots via network every time you start the vm)
+(This solves that)
+
+Now Start Again 
+
+If it still occur just 
+disconnect the network adapter
+and turn it on after you see sign in window
 
 
                      
