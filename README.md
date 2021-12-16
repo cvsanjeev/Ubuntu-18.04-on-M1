@@ -45,7 +45,7 @@ Using VM through External HDD or SSD
           Click on "Hard Drive" (not Hard Drive 2)
           Click on Remove Hard Drive
           
-          https://user-images.githubusercontent.com/34735804/146422272-609a5d1c-ae2f-42df-bc4b-e7c3fad417da.mov
+  https://user-images.githubusercontent.com/34735804/146422272-609a5d1c-ae2f-42df-bc4b-e7c3fad417da.mov
 
         
 
@@ -59,16 +59,50 @@ Using VM through Mac SSD (Ask your mentor about how much space required for the 
                
 # Step 6
 Start the VM
+
 https://user-images.githubusercontent.com/34735804/146423745-14b5d7c8-b97a-45ff-a705-eacbff4379e7.mov
+
 Follow the installation process
-# Dont update the software (In process it might ask to do so)
-You are free to any name for username and server name 
+
+# Dont update the software (In the process it might ask you to do so)
+You are free to use any name for username and server name 
 
 https://user-images.githubusercontent.com/34735804/146424801-ff9e9594-001a-4a5d-ad70-2f17e0adbf42.mov
 
+https://user-images.githubusercontent.com/34735804/146425291-b4b6d1a3-1b9a-4ba2-b526-77f16cfa5ac7.mov
+
+Wait for few mins
 
 # Step 7
-Continue the installation process
+When you see this 
+
+<img width="1440" alt="Screenshot 2021-12-16 at 11 37 04 PM" src="https://user-images.githubusercontent.com/34735804/146425564-6bc77589-60ad-4bae-a781-0b408aa3f518.png">
+
+Just Press return
+You will see ubuntu starts
+Enter your Username and Password
+
+https://user-images.githubusercontent.com/34735804/146425857-9089fd83-1a75-497e-8967-308073305f71.mov
+
+Use the command given one by one (So we can convert Ubuntu server to Ubuntu desktop (GUI))
+    
+         $ sudo apt install tasksel
+         $ sudo tasksel install ubuntu-desktop
+     
+https://user-images.githubusercontent.com/34735804/146426735-0c3019cf-2499-486e-a71c-e085a7965305.mov
+
+This takes time 
+After this installed 100%
+Use this command 
+
+         $ sudo reboot
+                     
+
+
+                     
+                     
+                     
+                     
 
 
 
